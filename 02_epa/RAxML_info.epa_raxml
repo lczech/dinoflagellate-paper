@@ -1,0 +1,81 @@
+
+
+IMPORTANT WARNING: Sequences 402ff1c02cf1114cb6b6cfe542997b9d276dedbd_2668 and 223ed0fe0e2696e07d5888992182926f8cdb6d2f_11 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /home/lucas/Projects/dinoflagellates/01_align/papara_alignment.raxml.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+Found a total of 239 taxa in tree file /home/lucas/Projects/dinoflagellates/00_data/reference_tree_dinoflagellates_rerooted.tre
+
+
+This is RAxML version 8.1.24 released by Alexandros Stamatakis on June 29 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 5343 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 74.33%
+
+RAxML likelihood-based placement algorithm
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+Partition: 0
+Alignment Patterns: 5343
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+Base frequencies: ML estimate
+
+
+
+
+RAxML was called as follows:
+
+/home/lucas/Software/standard-RAxML/raxmlHPC-PTHREADS-AVX -f v --epa-accumulated-threshold=0.99 -t /home/lucas/Projects/dinoflagellates/00_data/reference_tree_dinoflagellates_rerooted.tre -s /home/lucas/Projects/dinoflagellates/01_align/papara_alignment.raxml -m GTRGAMMAX -n epa_raxml -T 4 
+
+
+RAxML placement algorithm: You provided a reference tree with 239 taxa; alignmnet has 508 taxa
+269 query taxa will be placed using maximum likelihood
+
+RAxML Evolutionary Placement Algorithm
+
+Likelihood of reference tree: -227084.215915
+
+RAxML will place 269 Query Sequences into the 475 branches of the reference tree with 239 taxa
+
+Overall Classification time: 2882.320577
+
+
+
+Labelled reference tree including branch labels and query sequences written to file: /home/lucas/Projects/dinoflagellates/02_epa/RAxML_labelledTree.epa_raxml
+
+Labelled reference tree with branch labels (without query sequences) written to file: /home/lucas/Projects/dinoflagellates/02_epa/RAxML_originalLabelledTree.epa_raxml
+
+Labelled reference tree with branch labels in portable pplacer/EPA format (without query sequences) written to file: /home/lucas/Projects/dinoflagellates/02_epa/RAxML_portableTree.epa_raxml.jplace
+
+Classification result file written to file: /home/lucas/Projects/dinoflagellates/02_epa/RAxML_classification.epa_raxml
+
+Classification result file using likelihood weights written to file: /home/lucas/Projects/dinoflagellates/02_epa/RAxML_classificationLikelihoodWeights.epa_raxml
+
+Classification entropy result file using likelihood weights written to file: /home/lucas/Projects/dinoflagellates/02_epa/RAxML_entropy.epa_raxml
+

@@ -1,0 +1,4 @@
+43API049Alvspe_HM245049	outgroup
+40API453Toxgo__X75453	outgroup
+42API129Thea__Chr1__C_011129	outgroup
+42API344Theipar__C_007344	outgroup
