@@ -2,8 +2,9 @@
 
 This is the supplemental code repository for the phylogenetic analyses of our manuscript
 
-> "Possible explanations for dinophyte DNA in tropical rain forest soils."</br>
-> Marc Gottschling, Lucas Czech, Micah Dunthorn. 2020.
+> "The Windblown: Possible Explanations for Dinophyte DNA in Forest Soils."</br>
+> Marc Gottschling, Lucas Czech, Frédéric Mahé, Sina Adl, Micah Dunthorn.</br>
+> Journal of Eukaryotic Microbiology, 2020, https://doi.org/10.1111/jeu.12833
 
 The subdirectories contain the analysis steps in order, and are explained in the following.
 
